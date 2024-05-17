@@ -5,252 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68782105-7964-4d72-aec7-70cc71d47f77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../StockBroker/src/main/java/com/StockBroker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/BaseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/LimitOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/MarketOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/OrderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/Portfolio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/StockBrokerageSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/Trade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/TradeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/FlatStructure/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/Multiple/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/Multiple/models/UserModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockBroker/src/main/java/com/StockBroker/Multiple/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/controller/DriverController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/controller/RideController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/models/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/models/Ride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/repositories/DriverRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/repositories/RideRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/services/RideSharingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Uber/stratergies/FareCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/flat/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/flat/FareCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/flat/Ride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/flat/RideSharingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/flat/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/controller/DriverController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/controller/RideController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/models/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/models/Ride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/repositories/DriverRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/repositories/RideRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/services/RideSharingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sample_pool/src/main/java/com/SamplePool/Uber/split/stratergies/FareCalculatorStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day22-strings/String-qns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day22-strings/Strings-Basics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day23,24-hash-map/hash-map-qns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day23,24-hash-map/hash-map-qns2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day23,24-hash-map/hash-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day23,24-hash-map/hash-map.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day25,26-recursion/rec-qns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day25,26-recursion/rec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day27-oops/classes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day27-oops/classes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day29-trees/geeks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day29-trees/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day29-trees/trees-qns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/2d-sub-matrix sum queries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/absoluteMax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/arrays.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/count1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/first missing iinteger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/flip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/merge overlaping intervels.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/nextPerm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day35,36,37-Arrays-advanced/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day39-bit manipulation/find two unique nums.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day39-bit manipulation/max and pair.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day39-bit manipulation/strange inequality.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day44-math/qns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day46-recurssion-advanced/combinations.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day46-recurssion-advanced/para.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day47-merge-sort/assigns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day49,50-sorting-Ad/maxChucks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day49,50-sorting-Ad/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day52,53,54-search/binary-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day52,53,54-search/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day55-two-pointer/2point.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day55-two-pointer/maxOne.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day56,57-hashing/TreeQn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day56,57-hashing/TreeQn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day56,57-hashing/hasing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day60,61-linkedList/linkalist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day60,61-linkedList/lonPali.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day60,61-linkedList/palin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day62-string-rabin-karb/string.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day63-doublelinklist/cache2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day63-doublelinklist/link.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/64-stack.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/65-stack.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/braces.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/greatestRight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/infix-postfix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/largestRec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/leftSmaller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/queuestck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day64,65-stack/stack-postfix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day68-queue/Queues.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/Trees1-69.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/Trees2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/Trees3_BST.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/Trees4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/Trees5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/bst-deletion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/bst1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/bstRange.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/levelorder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/post,in=tree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/pre,in=tree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/rightView.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day69-73-tree/vertical.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day76,77-tries/Trie_of_bits2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day76,77-tries/Trie_of_char1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day76,77-tries/maxxor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day76,77-tries/shortestPrefix.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day76,77-tries/spelcheck.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/AthLargest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/AthSmallest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/Heap1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/WaystoformMaxHeap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/candies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/connectrops.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/heapImpleMyLogic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/kplacesApart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/maxSumNegation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/minLargeElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/numMaxHeap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/product3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day78,79-heap/runnningMedian.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/Greedy.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/candy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/miceholes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/seats.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/startendBasedTime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/sumofmultiple.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day80-greedy/timeBasedProfit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/Backtracking1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/Backtracking2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/SquarefulArrays.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/letterPhone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/nQueens.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/palindrome-partioning.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/permutation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/subSet.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/subSetDuplicate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/sudoku.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/sudokunew.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/uniquePath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/uniquePermu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day81,82-backTracking/wordBreak.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/01knapSack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/01knapSackII.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/0NknapSack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/1D_DP.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/CoinSeleOrdered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/CoinSeleUnOrdered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/DP3_knapsack.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/DP5_Strings.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/Distinct Subsequences.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/DungeonPrincess.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/Tushar's Birthday Party.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/assignments/interleaving.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/assignments/tri-min-sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/buyingCandies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/coin-flip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/cut-rod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/edit-distance.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/fibanocci.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/flip-array.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/fractional-knapsack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/let's party.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/maxProd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/maxSum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/maxSumNumProd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/minNumSquares.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/nDigitNum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/pathMinSum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/regex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/regexII.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/stairsWays.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/subSeq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/uniqueBst.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/uniqueGridPath.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/waysToDecode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day83,84,85,86,87-DP/waystosensignal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day9-arrays/Spiral Order Matrix II.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day9-arrays/array-qns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day9-arrays/closest minmax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day9-arrays/equlibrium0idex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day9-arrays/leader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day9-arrays/min swaps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day90-DP6/longest-subseq-bin-ser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day90-DP6/longest-subseq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day90-DP6/pal-mincut.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day90-DP6/pal-substring.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day90-DP6/russoan-doll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/day91-Graph/pathDirectdGraph.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/dayRevision-1-6-Aug/q1-continnous-sum-query.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/dayRevision-1-6-Aug/q2-submatrics-sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/dayRevision-1-6-Aug/q3-max-sub-sum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../dsa/dayRevision-1-6-Aug/q5-merge-overlappi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../java-learn" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java-learn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../StockBroker/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StockBroker/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../StockBroker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StockBroker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../StockBroker/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../StockBroker/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../StockBroker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../StockBroker/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../StockBroker/src/main/java/com/vendingMachineJV/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../VendingMachineJV/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../VendingMachineJV/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../parkingLot" beforeDir="false" afterPath="$PROJECT_DIR$/../../parkingLot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/UberSplit/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/UberSplit/FareCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/UberSplit/Ride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/UberSplit/RideSharingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/UberSplit/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,15 +24,32 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Uber" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gZw1E3N7xYKvV2ienM2liLIRrx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -286,12 +65,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/abhijiths/Documents/abheaks/GitHub/ds-algo-learn/projects-java/learn_lld/Uber/src/main/java/com/Uber",
+    "last_opened_file_path": "/Users/abhijiths/Documents/abheaks/GitHub/lld-learn-samples/Uber/src/main/java/com",
     "onboarding.tips.debug.path": "/Users/abhijiths/Documents/abheaks/GitHub/ds-algo-learn/projects-java/learn_lld/Uber/src/main/java/com/Uber/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/" />
       <recent name="$PROJECT_DIR$/src/main/java/com/Uber" />
     </key>
   </component>
